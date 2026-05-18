@@ -552,7 +552,7 @@ These paths are referenced in code but may be **missing from the repository clon
 ## Quick Start (Minimal)
 
 ```bash
-cd "WEBpageslatest - Copy"
+
 pip install flask opencv-python face-recognition cvzone numpy pyrebase4 firebase-admin
 # Place serviceAccountKey.json, images/, Resources/ in project root
 python EncodeGenerator.py
